@@ -8,7 +8,7 @@ Projeto realizado junto com Felipe Rocha
 <a href="https://www.youtube.com/watch?v=3Ec9zY1C2og" target="_blank">Crie um Formulario com HTML, CSS e JavaScript</a>
 
 
-<a href="https://raynnenogueira.github.io/projeto-formulario/">Visite aqui o  projeto</a>
+<a href="https://raynnenogueira.github.io/projeto-formulario/" target="_blank">Visite aqui o  projeto</a>
 
 
 <p text-align="center">
